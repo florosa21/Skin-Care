@@ -21,6 +21,12 @@ body {
     margin: 0 auto;
 }
 
+.banner__imagem{
+
+    width: auto;
+    height: 150px;
+}
+
 h1 {
     font-size: 36px;
     color: #333;
