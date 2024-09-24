@@ -11,7 +11,7 @@ body {
     background-color: #e1c1a6; /* Cor de fundo do banner */
     background-image: url(Home-removebg-preview.png);
 background-repeat: no-repeat;
-background-position: 0%;
+background-position: 100%;
     text-align: center;
     padding: 50px 0;
 }
