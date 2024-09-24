@@ -20,6 +20,7 @@ background-size: 120%;
 
 .container {
     max-width: 600px;
+    height: 200px;
     margin: 0 auto;
 }
 
