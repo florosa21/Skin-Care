@@ -16,7 +16,7 @@ body {
 }
 
 .container {
-    max-width: 600px;
+    max-width: 80%;
     height:inherit;
     margin: 0 auto;
 }
